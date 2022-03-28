@@ -1,2 +1,4 @@
 Hello, world!
 I like apples!
+I like to test things!
+this is written after having added to stage with only line 3!
